@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Manal!<br><br>🎓 **Aspiring Programmer** learning C++, web development, and Scratch!  <br>🌱 **Currently Learning:** Advanced C++ concepts and HTML.  <br>✨ **Fun Fact:** I love exploring new technologies and turning ideas into creative projects!  <br><br>💬 Let's collaborate or chat about beginner-friendly projects, or anything tech-related! 😊  <br>📫 **Reach me at:** [lodhimanal8@gmail.com]<br><br>---<br>### 🌟 My GitHub Stats<br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manallodhi&show_icons=true&theme=radical)<br>
+# Hi there 👋, I'm Manal!<br><br>🎓 **Aspiring Programmer** learning C++, web development, and Scratch!  <br>🌱 **Currently Learning:** Advanced C++ concepts and HTML.  <br>✨ **Fun Fact:** I love exploring new technologies and turning ideas into creative projects!  <br><br>💬 Let's collaborate or chat about beginner-friendly projects, or anything tech-related! 😊  <br>📫 **Reach me at:** [lodhimanal8@gmail.com]<br><br>---<br>### 🌟 
 
 
 ## 🌐 Socials:
